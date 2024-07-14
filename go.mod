@@ -245,7 +245,7 @@ require (
 	github.com/bufbuild/buf v1.7.0
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/chai2010/gettext-go v1.0.2 // indirect
-	github.com/cheshir/ttlcache v1.0.1-0.20220504185148-8ceeff21b789
+	github.com/cheshir/ttlcache b6c15c9a2f4a
 	github.com/clbanning/mxj/v2 v2.7.0 // indirect
 	github.com/containerd/containerd v1.7.0 // indirect
 	github.com/coreos/go-oidc/v3 v3.4.0 // indirect
