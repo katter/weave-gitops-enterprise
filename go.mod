@@ -67,7 +67,7 @@ require (
 	github.com/weaveworks/cluster-reflector-controller v0.0.9
 	github.com/weaveworks/gitopssets-controller v0.16.5
 	github.com/weaveworks/policy-agent/api v1.0.5
-	github.com/weaveworks/progressive-delivery v0.0.0-20230421131659-61a8aadf8aac
+	github.com/weaveworks/progressive-delivery cc29a4ff16f9
 	github.com/weaveworks/templates-controller v0.2.0
 	github.com/xanzy/go-gitlab v0.90.0
 	go.mozilla.org/sops/v3 v3.7.3
