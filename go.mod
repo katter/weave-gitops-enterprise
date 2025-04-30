@@ -35,7 +35,7 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.16.16
 	github.com/aws/aws-sdk-go-v2/config v1.17.8
 	github.com/aws/aws-sdk-go-v2/service/pricing v1.17.1
-	github.com/external-secrets/external-secrets v0.9.3
+	github.com/external-secrets/external-secrets v0.10.2
 	github.com/fluxcd/flagger v1.30.0
 	github.com/fluxcd/go-git-providers v0.16.0
 	github.com/fluxcd/helm-controller/api v0.35.0
