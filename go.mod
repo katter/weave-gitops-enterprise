@@ -27,7 +27,7 @@ require (
 )
 
 require (
-	filippo.io/age v1.1.1
+	filippo.io/age v1.2.1
 	github.com/NYTimes/gziphandler v1.1.1
 	github.com/ProtonMail/gopenpgp/v2 v2.6.0
 	github.com/alecthomas/assert v0.0.0-20170929043011-405dbfeb8e38
