@@ -80,7 +80,7 @@ require (
 	google.golang.org/protobuf v1.31.0
 	helm.sh/helm/v3 v3.11.3
 	k8s.io/apiextensions-apiserver v0.27.4
-	k8s.io/kubernetes v1.26.3
+	k8s.io/kubernetes v1.32.10
 	sigs.k8s.io/cluster-api v1.5.2
 	sigs.k8s.io/kustomize/kyaml v0.14.1
 	sigs.k8s.io/yaml v1.4.0
