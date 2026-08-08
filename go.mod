@@ -396,7 +396,7 @@ replace (
 
 	// Replace digest lib to master to gather access to BLAKE3.
 	// xref: https://github.com/opencontainers/go-digest/pull/66
-	github.com/opencontainers/go-digest => github.com/opencontainers/go-digest v1.0.1-0.20220411205349-bde1400a84be
+	github.com/opencontainers/go-digest => github.com/opencontainers/go-digest 538f27dd2513
 
 	// un-comment for local dev
 	// github.com/weaveworks/weave-gitops => ../weave-gitops
