@@ -392,7 +392,7 @@ replace (
 
 	// replace circl to 1.3.3
 	// https://github.com/advisories/GHSA-2q89-485c-9j2x
-	github.com/cloudflare/circl => github.com/cloudflare/circl v1.3.3
+	github.com/cloudflare/circl => github.com/cloudflare/circl v1.6.3
 
 	// Replace digest lib to master to gather access to BLAKE3.
 	// xref: https://github.com/opencontainers/go-digest/pull/66
