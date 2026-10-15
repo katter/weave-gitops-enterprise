@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/go-logr/logr v1.2.3
-	github.com/golang-jwt/jwt/v4 v4.0.0
+	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/weaveworks/weave-gitops-enterprise-credentials v0.0.2
 	k8s.io/api v0.26.2
 	k8s.io/apimachinery v0.26.2
