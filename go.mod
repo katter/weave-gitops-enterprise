@@ -160,7 +160,7 @@ require (
 	github.com/aws/smithy-go v1.13.3 // indirect
 	github.com/bluekeyes/go-gitdiff v0.7.1 // indirect
 	github.com/cenkalti/backoff/v3 v3.2.2 // indirect
-	github.com/cloudflare/circl v1.3.3 // indirect
+	github.com/cloudflare/circl v1.6.3 // indirect
 	github.com/dimchansky/utfbom v1.1.1 // indirect
 	github.com/evanphx/json-patch/v5 v5.6.0 // indirect
 	github.com/fluxcd/image-automation-controller/api v0.33.1 // indirect
@@ -392,7 +392,7 @@ replace (
 
 	// replace circl to 1.3.3
 	// https://github.com/advisories/GHSA-2q89-485c-9j2x
-	github.com/cloudflare/circl => github.com/cloudflare/circl v1.3.3
+	github.com/cloudflare/circl => github.com/cloudflare/circl v1.6.3
 
 	// Replace digest lib to master to gather access to BLAKE3.
 	// xref: https://github.com/opencontainers/go-digest/pull/66
